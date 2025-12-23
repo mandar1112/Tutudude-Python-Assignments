@@ -25,12 +25,11 @@ Write a Python program that:
 
 
 ## Concepts Learned in This Assignment:
-  - Creating a Function
-  - Using loops or recursion
-  - Returns the Function Value
-  - How to call the function?
-  - Importing a Module
-  - Using the module to do Operations
-
+  - Defining and calling finctions
+  - Returing values from functions
+  - Using loops and recursion
+  - Importing and using Python modules
+  - Working with the 'math' module
+  - Performing advanced mathematical calculations
 
 
