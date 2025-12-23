@@ -17,3 +17,9 @@ Write a Python program that:
  1. Uses a **for loop** to iterate over numbers from **1 to 50**.
  2. Calculate the **sum of all integers** in this range.
  3. Display the final sum.
+
+
+## Concepts Learned in This Assignment:
+  - Taking integer input from user
+  - Using **if-else statement**
+  - Using **for loop**
