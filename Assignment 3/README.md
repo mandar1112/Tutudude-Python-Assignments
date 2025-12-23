@@ -21,6 +21,8 @@ Write a Python program that:
       - Sine of the number (in radians)
  3. Displays the calculated results.
 
+### Note : To perform **Task 2**, you need to import math module.
+
 
 ## Concepts Learned in This Assignment:
   - Creating a Function
@@ -31,4 +33,4 @@ Write a Python program that:
   - Using the module to do Operations
 
 
-### Note : To perform **Task 2**, you need to import math module.
+
