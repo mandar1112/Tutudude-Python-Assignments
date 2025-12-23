@@ -22,4 +22,13 @@ Write a Python program that:
  3. Displays the calculated results.
 
 
+## Concepts Learned in This Assignment:
+  - Creating a Function
+  - Using loops or recursion
+  - Returns the Function Value
+  - How to call the function?
+  - Importing a Module
+  - Using the module to do Operations
+
+
 ### Note : To perform **Task 2**, you need to import math module.
