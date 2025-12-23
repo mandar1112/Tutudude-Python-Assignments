@@ -24,7 +24,7 @@ All tasks related to each assignment is completed are implemented and included i
 
 ## How to Run the Programs (PowerShell)
   ### Clone the repostiory
-  git clone <repo-link>
+  git clone 'repo-link'
   
   ### Navigate to an assignment folder
   cd Assignment
