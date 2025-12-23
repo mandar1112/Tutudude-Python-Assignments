@@ -21,3 +21,13 @@ Write a Python program that:
  1. Takes the user's **first name**  and **last name** as input.
  2. Concatenates the first name and last name to form a **full name**.
  3. Prints a **personalized greeting message** using the full name.
+
+
+## Concepts Learned in This Assignment:
+  - Taking input from user
+  - Performing basic mathematical operations
+  - Using operators in Python
+  - Printing formatted output to the console
+  - Concatenating strings to create a full name
+  - Displaying personalized message and result using 'print()'
+  - 
